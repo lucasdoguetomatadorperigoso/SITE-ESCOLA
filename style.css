@@ -1,0 +1,13 @@
+.cabecalho {
+    background-color: blue;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+.cabeçalho-imagem{
+width: 20%;
+}
+
+.cabecalho_lista-item{
+    display: inline-block;
+}
